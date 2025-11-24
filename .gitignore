@@ -1,0 +1,34 @@
+# R files
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# Output files (keep directory structure but not outputs)
+output/*.pdf
+output/*.png
+output/*.jpg
+output/figures/*.pdf
+output/figures/*.png
+output/figures/*.jpg
+output/tables/*.csv
+output/tables/*.xlsx
+
+# Temporary files
+*~
+.DS_Store
+.Rapp.history
+
+# knitr and R markdown files
+*.utf8.md
+*.knit.md
+.Rproj.user/
+
+# OAuth2 token
+.httr-oauth
+
+# RStudio files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
